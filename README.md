@@ -1,14 +1,14 @@
-# PyPowerTools 🔧🚀
+# PyPowerTools 
 
 A single, powerful Python script that combines:
 
-- 📊 CSV Data Analyzer
-- 🌐 HTML Web Scraper
-- 🤖 OpenAI ChatGPT CLI
+-  CSV Data Analyzer
+-  HTML Web Scraper
+-  OpenAI ChatGPT CLI
 
 ---
 
-## 💻 Features
+##  Features
 
 | Tool          | Description                                           |
 |---------------|-------------------------------------------------------|
@@ -18,7 +18,7 @@ A single, powerful Python script that combines:
 
 ---
 
-## 🏁 How to Use
+##  How to Use
 
 ### 1. Install Dependencies
 
